@@ -6,7 +6,7 @@
 
 ![Static Badge](https://img.shields.io/badge/--1f1f22?style=for-the-badge&logo=C&logoColor=6060ef)
     
-<a href="https://github.com/GameDev46/small_c_projects/stargazers">
+<a href="https://github.com/GameDev46/C_projects/stargazers">
     <img src="https://img.shields.io/github/stars/GameDev46/small_c_projects?style=for-the-badge&labelColor=1f1f22" alt="stars - small_c_projects">
 </a>
 <a href="https://github.com/GameDev46/small_c_projects/forks">
