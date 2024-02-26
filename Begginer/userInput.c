@@ -20,7 +20,7 @@ int main() {
     // Multiply the input number by 2
     userInput *= 2.0;
 
-    // Print "Hello world" to the console
+    // Print the new value of userInput to the console
     printf("Double your number is %lf", userInput);
 
     // End the program
